@@ -1,7 +1,7 @@
 Los solucionarios estan basados en los contenedores de dockerlabs pero deployandolos en un equipo secundario por lo que se exponen los puertos de cada uno:
 https://hub.docker.com/r/hacksociety/
 
-Una vez terminado el lab:``
+Una vez terminado el lab:
 
 # 🧹 Limpieza completa de Docker
 ---
