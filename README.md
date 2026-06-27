@@ -2,16 +2,16 @@ Los solucionarios estan basados en los contenedores de dockerlabs pero deployand
 https://hub.docker.com/r/hacksociety/
 
 ## Tutorial para cargar las imagenes
-Bash
+
 sudo docker login
 
 ## Crear la imagen
 
-Bash
+
 sudo docker tag autoescuela:latest tu_usuario_docker/autoescuela:latest
 sudo docker tag autoescuela:latest hacksociety/autoescuela:latest
 
 ## Cargar la imagen
 
-Bash
+
 sudo docker push hacksociety/autoescuela:latest
